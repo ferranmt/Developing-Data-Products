@@ -1,0 +1,12 @@
+STOPPING DISTANCE CALCULATION (ft) DEPENDING ON SPEED (mph)
+
+This app uses data from some studies done that calculated the stopping distance depending on the speed of the car.
+
+Using this data, we create a linear regression to make predictions of stopping distance.
+
+To use the app locally: 
+	1. Download the server.R and UI.R scripts and save them on the same file.
+	2. Start R studio and load the package shiny
+	3. On the top right part of the script (any of the two of them), click on the Run App button.
+
+
